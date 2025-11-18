@@ -1,16 +1,14 @@
-## Hi there 👋
+I'm **Tim Josephson**, a post-doctoral researcher at University College Dublin in the [Developmental Biomechanics lab](https://developmental-biomechanics.org/). 
+My research focuses on skeletal tissues and understanding the role of mechanical stimulus in skeletal development, fracture healing, and remodeling. 
+I develop tools, primarily in Python, for computational modeling to support this research, especially code for mesh generation and simulation frameworks. 
 
-<!--
-**TimJosephson/TimJosephson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I earned my Ph.D. in Biomedical Engineering from Boston University, working in the [Skeletal Mechanobiology and Biomechanics Lab](https://morganresearchlab.org/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See also:
+
+[Personal Website](www.timjosephson.com)
+
+[Google Scholar](https://scholar.google.com/citations?user=ZsqbtjQAAAAJ&hl=en)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=TimJosephson&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400) -->
