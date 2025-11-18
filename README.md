@@ -8,7 +8,7 @@ I earned my Ph.D. in Biomedical Engineering from Boston University, working in t
 
 See also:
 
-[Personal Website](www.timjosephson.com)
+[Personal Website](https://www.timjosephson.com)
 
 [Google Scholar](https://scholar.google.com/citations?user=ZsqbtjQAAAAJ&hl=en)
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=TimJosephson&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400) -->
